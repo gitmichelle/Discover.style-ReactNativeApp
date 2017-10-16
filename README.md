@@ -7,11 +7,14 @@ For my Epicodus internship I worked with Sightworks, a SaaS company in Portland,
 ## Browser Simulation via Appetize.io
 To view and interact with the app, go to: https://goo.gl/iwG7Ud. 
 
-## Known Bugs
-No known bugs at this time, although sometimes the images load slowly. 
-
 ## Technologies Used
 * _React_
 * _React-Native_
 * _Javascript_
 * _Flexbox_
+
+## Known Bugs
+No known bugs at this time, although sometimes the images load slowly. 
+
+### License
+Copyright (c) 2017 **_Sightworks_**

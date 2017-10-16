@@ -1,4 +1,4 @@
-# Epicodus-Sightworks-Internship-ReactNativApp
+# Discover.style
 #### By **Michelle Llaguno**
 
 ## Summary

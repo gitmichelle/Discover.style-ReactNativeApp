@@ -1,4 +1,5 @@
-# Discover.style #### By **Michelle Llaguno & Sightworks**
+# Discover.style
+By **Michelle Llaguno & Sightworks**
 
 
 ## Summary

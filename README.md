@@ -9,7 +9,8 @@ For my Epicodus internship I worked with Sightworks, a SaaS company in Portland,
 To view and interact with the app, go to: https://goo.gl/iwG7Ud.
 
 ## Screenshots
-![homepage](https://user-images.githubusercontent.com/22741694/31693293-99e6329a-b352-11e7-8c9b-519093edcccb.jpg)![issue stream](https://user-images.githubusercontent.com/22741694/31693373-1b6903c4-b353-11e7-9b2d-0009283e3e8b.jpg)![instagram post](https://user-images.githubusercontent.com/22741694/31693427-5d6aaa66-b353-11e7-8df1-4973b946fdb8.jpg)
+![homepage](https://user-images.githubusercontent.com/22741694/31693472-a49f76a0-b353-11e7-89bc-3b73e6db5f4a.jpg)
+![issue stream](https://user-images.githubusercontent.com/22741694/31693373-1b6903c4-b353-11e7-9b2d-0009283e3e8b.jpg)![instagram post](https://user-images.githubusercontent.com/22741694/31693427-5d6aaa66-b353-11e7-8df1-4973b946fdb8.jpg)
 
 ![article post](https://user-images.githubusercontent.com/22741694/31693395-350c50ce-b353-11e7-8686-c3ea06188598.jpg)![article summary arrow down](https://user-images.githubusercontent.com/22741694/31693420-5106165c-b353-11e7-8190-7985b791108f.jpg)
 

@@ -9,7 +9,7 @@ For my Epicodus internship I worked with Sightworks, a SaaS company in Portland,
 To view and interact with the app, go to: https://goo.gl/iwG7Ud.
 
 ## Screenshots
-
+![Homepage](Homepage.jpg)
 
 ## Technologies Used
 * _React_
